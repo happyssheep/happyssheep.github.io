@@ -1,4 +1,8 @@
 /* CSS Document */
+a.while
+{
+	color:cyan
+}
 p.center
 {
 	color:white;
@@ -17,6 +21,12 @@ h2.center
 	
 	text-align:center;
 }
+h2.orange
+{
+	color:darkred;
+	
+	text-align:center;
+}
 h3.center
 {
 	color:white;
@@ -28,4 +38,24 @@ h4.center
 	color:white;
 	
 	text-align:center;
+}
+h4.while
+{
+	color:white;
+}
+h3.while
+{
+	color:white;
+}
+h2.while
+{
+	color:white;
+}
+h1.while
+{
+	color:white;
+}
+p.while
+{
+	color:white;
 }
