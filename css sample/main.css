@@ -1,4 +1,10 @@
 /* CSS Document */
+body
+{
+	background-repeat:no-repeat;
+	
+	background-attachment: fixed;
+}
 a.while
 {
 	color:cyan
