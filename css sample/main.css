@@ -7,61 +7,23 @@ body
 }
 a.while
 {
-	color:cyan
-}
-p.center
-{
-	color:white;
+	color: aqua;
 	
-	text-align:center;
+	text-decoration: none;
 }
-h1.center
-{
-	color:white;
-	
-	text-align:center;
-}
-h2.center
-{
-	color:white;
-	
-	text-align:center;
-}
-h2.orange
+.orange
 {
 	color:darkred;
 	
 	text-align:center;
 }
-h3.center
+.center
 {
 	color:white;
 	
 	text-align:center;
 }
-h4.center
-{
-	color:white;
-	
-	text-align:center;
-}
-h4.while
-{
-	color:white;
-}
-h3.while
-{
-	color:white;
-}
-h2.while
-{
-	color:white;
-}
-h1.while
-{
-	color:white;
-}
-p.while
+.while
 {
 	color:white;
 }
